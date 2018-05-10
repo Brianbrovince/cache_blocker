@@ -6,4 +6,8 @@ when you push js and css updates and you the changes don't effect, you may have 
 what about your client?
 
 I have an simple way of handling this in PHP.
--------check the php file
+
+
+
+
+-------check the php file------------------
